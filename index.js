@@ -86,7 +86,7 @@ const zooAnimals = [
      return animals.animal_name.toLowerCase();
       });
       return lowerAnimals;
-  };
+  }
   console.log(lowerCaseNames(zooAnimals));
   
   /* 🦁🦁🦁 Request 3: .filter() 🦁🦁🦁
